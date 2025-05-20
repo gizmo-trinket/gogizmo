@@ -57,10 +57,10 @@ params:
   disable_theme_toggle: true
 
   p1:
-    heading: "Our mission"
+    heading: "Our Mission"
     image: "/images/global/ai.jpg"
     content:
-      - text: "Gizmo and Trinket is here."
+      - text: "Hm..."
   # p3:
   #   heading: "Backed by world-renowned investors"
   #   content:
