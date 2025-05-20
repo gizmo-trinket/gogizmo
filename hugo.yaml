@@ -52,7 +52,7 @@ params:
   og_image: /images/tailbliss-cover.png
   moto: "Modernizing Industry From Within"
   description: ""
-  extended_description: "At Gizmo and Trinket, we tailor cutting-edge technology for seamless integration with your existing processes."
+  extended_description: "At Gizmo and Trinket, we adapt cutting-edge technology for seamless integration with your existing processes."
   disable_stay_uptodate: true
   disable_theme_toggle: true
 
@@ -60,23 +60,19 @@ params:
     heading: "Our Mission"
     image: "/images/global/ai.jpg"
     content:
-      - text: "Hm..."
-  # p3:
-  #   heading: "Backed by world-renowned investors"
-  #   content:
-  #     - text: "Sagittis scelerisque nulla cursus in enim consectetur quam. Dictum urna sed consectetur neque tristique pellentesque. Blandit amet, sed aenean erat arcu morbi. Cursus faucibus nunc nisl netus morbi vel porttitor vitae ut. Amet vitae fames senectus vitae."
-  #   links:
-  #     - text: Meet our investors and advisors
-  #       url: "#"
-  #   logos:
-  #     - identifier: a
-  #       image: "images/global/sample-logo.svg"
-  #       alt: "a"
-  #     - identifier: b
-  #     - identifier: c
-  #     - identifier: d
-  #     - identifier: e
-  #     - identifier: f
+      - text: "At Gizmo and Trinket, we stay above the hype."
+      - text: "Yes, we have expertise in AI, physical simulation, and digital-twins. But, contrary to the neverending advertisements, those technologies are not a panacea, and they aren't one-size-fits-all."
+      - text: "Real solutions require a real understanding of the underlying problem."
+      - text: "This is the core principle that drives our success. Gizmo and Trinket works with you to understand your problems and develop a solution tailor-made for your unique circumstances."
+  p2:
+    heading: "Contact info@gizmo.io for..."
+    image: "/images/global/GT_gear2.png"
+    content:
+      - text: "   - Digital Twins,"
+      - text: "   - Predictive Maintenance,"
+      - text: "   - Automated QA/QC,"
+      - text: "   - Design and Process Optimization,"
+      - text: "   - Complex Process Control,"
   # p4:
   #   heading: "From the blog"
   #   content:
@@ -105,16 +101,8 @@ params:
       url: 'https://twitter.com/nusserstudios'
     
 
-menu:
-  main:
-    - identifier: about
-      name: About
-      url: /about/
-      weight: 20
-    - identifier: contact
-      name: Contact
-      url: /contact/
-      weight: 50
+# menu:
+#   main:
 
 markup:
   goldmark:
