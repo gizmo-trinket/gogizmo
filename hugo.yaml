@@ -1,4 +1,4 @@
-baseURL: ''
+baseURL: 'https://www.gizmoandtrinket.com/'
 title: Gizmo and Trinket
 languageCode: en-us
 DefaultContentLanguage: en
@@ -53,42 +53,42 @@ params:
   moto: "Modernizing Industry From Within"
   description: ""
   extended_description: "At Gizmo and Trinket, we tailor cutting-edge technology for seamless integration with your existing processes."
-  disable_stay_uptodate: false
+  disable_stay_uptodate: true
   disable_theme_toggle: true
 
   p1:
     heading: "Our mission"
     image: "/images/global/ai.jpg"
     content:
-      - text: "Place holder"
-  p3:
-    heading: "Backed by world-renowned investors"
-    content:
-      - text: "Sagittis scelerisque nulla cursus in enim consectetur quam. Dictum urna sed consectetur neque tristique pellentesque. Blandit amet, sed aenean erat arcu morbi. Cursus faucibus nunc nisl netus morbi vel porttitor vitae ut. Amet vitae fames senectus vitae."
-    links:
-      - text: Meet our investors and advisors
-        url: "#"
-    logos:
-      - identifier: a
-        image: "images/global/sample-logo.svg"
-        alt: "a"
-      - identifier: b
-      - identifier: c
-      - identifier: d
-      - identifier: e
-      - identifier: f
-  p4:
-    heading: "From the blog"
-    content:
-      - text: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ipsa libero labore natus atque, ducimus sed."
-  p5:
-    heading: "Stay Up to Date"
-    content:
-      - text: "Sagittis scelerisque nulla cursus in enim consectetur quam. Dictum urna sed consectetur neque tristique pellentesque."
-    action: "#"
-    label: "Email address"
-    placeholder: "Enter your email"
-    button: "Notify me"
+      - text: "Gizmo and Trinket is here."
+  # p3:
+  #   heading: "Backed by world-renowned investors"
+  #   content:
+  #     - text: "Sagittis scelerisque nulla cursus in enim consectetur quam. Dictum urna sed consectetur neque tristique pellentesque. Blandit amet, sed aenean erat arcu morbi. Cursus faucibus nunc nisl netus morbi vel porttitor vitae ut. Amet vitae fames senectus vitae."
+  #   links:
+  #     - text: Meet our investors and advisors
+  #       url: "#"
+  #   logos:
+  #     - identifier: a
+  #       image: "images/global/sample-logo.svg"
+  #       alt: "a"
+  #     - identifier: b
+  #     - identifier: c
+  #     - identifier: d
+  #     - identifier: e
+  #     - identifier: f
+  # p4:
+  #   heading: "From the blog"
+  #   content:
+  #     - text: "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ipsa libero labore natus atque, ducimus sed."
+  # p5:
+  #   heading: "Stay Up to Date"
+  #   content:
+  #     - text: "Sagittis scelerisque nulla cursus in enim consectetur quam. Dictum urna sed consectetur neque tristique pellentesque."
+  #   action: "#"
+  #   label: "Email address"
+  #   placeholder: "Enter your email"
+  #   button: "Notify me"
 
   social_media:
     github:
